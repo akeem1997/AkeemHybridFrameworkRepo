@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-03-26T18:55:08 CDT" name="Default suite" finished-at="2023-03-26T18:55:19 CDT" duration-ms="11446">
+    <groups>
+    </groups>
+    <test started-at="2023-03-26T18:55:08 CDT" name="Default test" finished-at="2023-03-26T18:55:19 CDT" duration-ms="11446">
+      <class name="testCases.loginTestCase">
+        <test-method signature="browserOpen()[pri:0, instance:testCases.loginTestCase@1189dd52]" started-at="2023-03-26T18:55:08 CDT" name="browserOpen" finished-at="2023-03-26T18:55:12 CDT" duration-ms="3959" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserOpen -->
+        <test-method signature="url()[pri:2, instance:testCases.loginTestCase@1189dd52]" started-at="2023-03-26T18:55:12 CDT" name="url" finished-at="2023-03-26T18:55:13 CDT" duration-ms="1156" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- url -->
+        <test-method signature="account()[pri:3, instance:testCases.loginTestCase@1189dd52]" started-at="2023-03-26T18:55:13 CDT" name="account" finished-at="2023-03-26T18:55:13 CDT" duration-ms="84" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- account -->
+        <test-method signature="testPage()[pri:4, instance:testCases.loginTestCase@1189dd52]" started-at="2023-03-26T18:55:13 CDT" name="testPage" finished-at="2023-03-26T18:55:14 CDT" duration-ms="440" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPage -->
+        <test-method signature="loginTestPageFill()[pri:5, instance:testCases.loginTestCase@1189dd52]" started-at="2023-03-26T18:55:14 CDT" name="loginTestPageFill" finished-at="2023-03-26T18:55:19 CDT" duration-ms="5324" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTestPageFill -->
+        <test-method signature="closedown()[pri:6, instance:testCases.loginTestCase@1189dd52]" started-at="2023-03-26T18:55:19 CDT" name="closedown" finished-at="2023-03-26T18:55:19 CDT" duration-ms="421" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closedown -->
+      </class> <!-- testCases.loginTestCase -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

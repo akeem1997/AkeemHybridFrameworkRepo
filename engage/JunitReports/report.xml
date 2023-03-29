@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="14.261" tests="1" skipped="0" failures="0" errors="0">
+<testcase classname="Feature to test Signup Page" name="Check signup page is successful with valid credentials" time="14.058">
+<system-out><![CDATA[
+Given User is on signup page................................................passed
+When user fills up signup page..............................................passed
+Then signUp is a success and close bowser...................................passed
+]]></system-out>
+</testcase>
+</testsuite>
